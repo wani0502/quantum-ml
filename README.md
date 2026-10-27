@@ -1,7 +1,3 @@
-Here is a complete, professional `README.md` structured for your GitHub repository. It highlights the architecture, the compute scale of the SPSA simulation, and exactly how your Qiskit replication stacked up against the original TensorFlow Quantum paper.
-
----
-
 # Quantum MNIST Classifier: TFQ Replication in Qiskit
 
 > A full-scale Qiskit replication of a Quantum Neural Network (QNN) designed to classify handwritten digits (3s and 6s) using a 17-qubit architecture, $XX$ and $ZZ$ phase accumulators, and an SPSA optimizer.
